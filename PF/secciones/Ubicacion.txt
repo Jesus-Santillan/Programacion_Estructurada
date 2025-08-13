@@ -1,0 +1,5 @@
+`id_Ubicacion` int(11) primary key auto_increment 
+`Simbolo de seccion` varchar(10)  not null   unique 
+`Fila` varchar(2)  not null  
+`Columna` varchar(2)  not null  
+`id_genero` int(11)
