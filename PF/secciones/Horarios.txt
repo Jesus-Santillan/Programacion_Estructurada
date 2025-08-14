@@ -1,0 +1,5 @@
+`id_Horarios` int(11) primary key auto_increment 
+`id_empleado` int(11)  
+`Dia` varchar(7)  not null  
+`Hora de inicio` varchar(20)  not null  
+`Hora de termino` varchar(20)  not null  

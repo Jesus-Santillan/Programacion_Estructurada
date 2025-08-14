@@ -1,0 +1,8 @@
+`id_Prestamos` int(11) primary key auto_increment 
+`Nombre del prestamista` varchar(60)  not null   unique 
+`Libro prestado` varchar(60)  
+`Inicio del prestamo` date  not null  
+`Fin del prestamo` date  not null  
+`Estado del prestamo` varchar(20) not null 
+`Cantidad de libros prestados` int(6) not null 
+`Adeudos por retraso` float(10) not null 

@@ -1,0 +1,17 @@
+usuarios
+Libros
+Horarios
+Prestamos
+Empleados
+Ubicacion
+genero
+Prueba
+----
+PF\secciones\usuarios.txt
+PF\secciones\Libros.txt 
+PF\secciones\Horarios.txt 
+PF\secciones\Prestamos.txt 
+PF\secciones\Empleados.txt 
+PF\secciones\Ubicacion.txt 
+PF\secciones\genero.txt 
+PF\secciones\Prueba.txt 
