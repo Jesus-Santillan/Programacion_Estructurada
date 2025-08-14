@@ -1,9 +1,0 @@
-`id_Libros` int(11) primary key auto_increment 
-`Saga de libros` varchar(40)  
-`Titulo` varchar(60)  not null  
-`Editorial` varchar(20)  
-`Numero de paginas` int(6)  not null  
-`Autor` varchar(50)  not null  
-`Estado` varchar(20)  not null  
-`id_genero` varchar(11)  
-`Calificacion` float(2)

@@ -1,7 +1,0 @@
-`id_Empleado` int(11) primary key auto_increment 
-`Nombre del empleado` varchar(50)  not null   unique 
-`Cargo` varchar(30)  not null  
-`Edad` int(3)  not null  
-`Contacto` varchar(60)  not null  
-`Sexo` varchar(20)  not null  
-`id_usuarios` int(11)  

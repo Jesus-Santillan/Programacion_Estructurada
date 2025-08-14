@@ -1,3 +1,0 @@
-`id_genero` int(11) primary key auto_increment 
-`Tipo de genero` varchar(20)  not null   unique 
-`Simbolo` varchar(6)  not null   unique 

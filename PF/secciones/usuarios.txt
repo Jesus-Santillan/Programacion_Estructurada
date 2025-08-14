@@ -1,4 +1,0 @@
-`id_usuario` int(11) primary key auto_increment 
-`usuario` varchar(50)  not null   unique 
-`contraseña` varchar(60)  not null  
-`permiso` varchar(2) not null 
